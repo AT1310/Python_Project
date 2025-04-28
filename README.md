@@ -24,6 +24,7 @@ It allows users to add, view, update, and delete video entries, with data saved 
 <br>
 ->Simple CLI Interface — Easy to use and beginner-friendly.
 <br>
+<br>
 📂 Project Structure
 
 File	Description<hr>

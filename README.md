@@ -26,9 +26,9 @@ It allows users to add, view, update, and delete video entries, with data saved 
 <br>
 📂 Project Structure
 
-File	Description
-<hr>
+File	Description<hr>
 youtube.txt	:Stores all video data in JSON format
+<br>
 youtube_manager.py:	Main Python script for the CLI application
 
 

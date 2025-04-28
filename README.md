@@ -38,7 +38,17 @@ Python 3.x
 
 (No additional libraries needed — only the built-in json module is used.)
 
-hello
+🚀 How to Run:
+
+1)Clone this repository or download the files manually.
+
+2)Open a terminal in the project folder.
+
+3)Run the Python script:
+
+python youtube_manager.py
+
+4)Follow the on-screen menu options to manage your videos.
 
 
 

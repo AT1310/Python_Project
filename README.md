@@ -10,9 +10,7 @@ A simple command-line YouTube video management system written in Python.
 It allows users to add, view, update, and delete video entries, with data saved persistently in a JSON file (youtube.txt).
 <br>
 <br>
-✨ Features
-
-
+✨ Features:
 ->List all Videos — View all saved video entries with their name, duration, and description.
 
 ->Add a Video — Add new video details interactively.

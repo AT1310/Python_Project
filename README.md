@@ -33,7 +33,7 @@ youtube.txt	:Stores all video data in JSON format
 youtube_manager.py:	Main Python script for the CLI application
 <br>
 <br>
-🔧 Requirements<br>
+🔧 Requirements:<br>
 Python 3.x
 
 (No additional libraries needed — only the built-in json module is used.)

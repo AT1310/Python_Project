@@ -13,17 +13,17 @@ It allows users to add, view, update, and delete video entries, with data saved 
 ✨ Features:
 <br>
 ->List all Videos — View all saved video entries with their name, duration, and description.
-
+<br>
 ->Add a Video — Add new video details interactively.
-
+<br>
 ->Update a Video — Modify existing video information.
-
+<br>
 ->Delete a Video — Remove a video from the list.
-
+<br>
 ->Persistent Storage — Saves data automatically in a local JSON file (youtube.txt).
-
+<br>
 ->Simple CLI Interface — Easy to use and beginner-friendly.
-
+<br>
 
 
 

@@ -25,6 +25,7 @@ It allows users to add, view, update, and delete video entries, with data saved 
 ->Simple CLI Interface — Easy to use and beginner-friendly.
 <br>
 📂 Project Structure
+
 File	Description<hr>
 youtube.txt	:Stores all video data in JSON format
 <br>

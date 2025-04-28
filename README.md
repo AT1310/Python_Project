@@ -1,5 +1,6 @@
 # Python_Project
 <br>
+<hr>
 Author - Ankit Tehri
 <br>
 About the Project:

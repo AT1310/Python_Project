@@ -24,6 +24,12 @@ It allows users to add, view, update, and delete video entries, with data saved 
 <br>
 ->Simple CLI Interface — Easy to use and beginner-friendly.
 <br>
+📂 Project Structure
+
+File	Description
+<hr>
+youtube.txt	:Stores all video data in JSON format
+youtube_manager.py:	Main Python script for the CLI application
 
 
 
